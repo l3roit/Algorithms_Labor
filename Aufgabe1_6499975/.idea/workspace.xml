@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fef09190-fc64-4f31-b3d5-d38a49e6fa35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1s4Aj2yjfpiOIspL8ALDfFMCQh8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fef09190-fc64-4f31-b3d5-d38a49e6fa35" name="Default Changelist" comment="" />
+      <created>1620121620419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620121620419</updated>
+      <workItem from="1620121622414" duration="1454000" />
+      <workItem from="1620123216604" duration="2000" />
+      <workItem from="1620123261642" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1282" height="160" key="GridCell.Tab.0.bottom" timestamp="1620123099610">
+      <screen x="-4880" y="-1123" width="1440" height="2510" />
+    </state>
+    <state width="1282" height="160" key="GridCell.Tab.0.bottom/-4880.-1123.1440.2510/0.0.1536.824/-3440.-205.3440.1400@-4880.-1123.1440.2510" timestamp="1620123099610" />
+    <state width="1282" height="160" key="GridCell.Tab.0.center" timestamp="1620123099610">
+      <screen x="-4880" y="-1123" width="1440" height="2510" />
+    </state>
+    <state width="1282" height="160" key="GridCell.Tab.0.center/-4880.-1123.1440.2510/0.0.1536.824/-3440.-205.3440.1400@-4880.-1123.1440.2510" timestamp="1620123099610" />
+    <state width="1282" height="160" key="GridCell.Tab.0.left" timestamp="1620123099610">
+      <screen x="-4880" y="-1123" width="1440" height="2510" />
+    </state>
+    <state width="1282" height="160" key="GridCell.Tab.0.left/-4880.-1123.1440.2510/0.0.1536.824/-3440.-205.3440.1400@-4880.-1123.1440.2510" timestamp="1620123099610" />
+    <state width="1282" height="160" key="GridCell.Tab.0.right" timestamp="1620123099610">
+      <screen x="-4880" y="-1123" width="1440" height="2510" />
+    </state>
+    <state width="1282" height="160" key="GridCell.Tab.0.right/-4880.-1123.1440.2510/0.0.1536.824/-3440.-205.3440.1400@-4880.-1123.1440.2510" timestamp="1620123099610" />
+    <state x="-4513" y="253" key="run.anything.popup" timestamp="1620122453689">
+      <screen x="-4880" y="-1123" width="1440" height="2510" />
+    </state>
+    <state x="-4513" y="253" key="run.anything.popup/-4880.-1123.1440.2510/0.0.1536.824/-3440.-205.3440.1400@-4880.-1123.1440.2510" timestamp="1620122453689" />
+  </component>
+</project>
