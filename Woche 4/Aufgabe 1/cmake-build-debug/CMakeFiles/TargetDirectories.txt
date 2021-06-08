@@ -1,0 +1,3 @@
+C:/Algorithms_Labor/Woche 4/Aufgabe 1/cmake-build-debug/CMakeFiles/Aufgabe_1.dir
+C:/Algorithms_Labor/Woche 4/Aufgabe 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Algorithms_Labor/Woche 4/Aufgabe 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

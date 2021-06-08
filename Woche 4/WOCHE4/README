@@ -1,0 +1,6 @@
+mysort: Sortieren mit Mergesort
+mystat_u: Duplikate werden beim Lesen erkannt, gezaehlt, und
+          weggeworfen (relativ wenig Speicherbedarf, aber O(n^2))
+mystat: Alle Elemente werden gespeichert, sortiert, und Duplikate bei
+        der Ausgabe gezaeht und eliminiert (mehr Speicher, aber O(n
+        log n)
